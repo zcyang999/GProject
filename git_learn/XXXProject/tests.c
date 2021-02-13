@@ -30,6 +30,7 @@
 #include <mqtt.h>
 #include "examples/templates/posix_sockets.h"
 
+/* this is my verion 2nd */
 void make_socket_blocking(int socket)
 {
 #if !defined(WIN32)
